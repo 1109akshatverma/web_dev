@@ -1,0 +1,86 @@
+*{
+
+    margin: 0%;
+    padding: 0%;
+
+}
+body {
+    background-image: url(login.jpg);
+    background-size: 100% 740px;
+
+}
+
+.contain{
+    width: 400px;
+    height: 430px;
+    background-color: black;
+    margin-left: 40%;
+    margin-top: 10%;
+    text-align: center;
+    color: white;
+
+}
+
+.contain .text{
+    position: relative;
+    top: 10%;
+    left: 2%;
+}
+
+.inp1{
+
+    border: none;
+    background-color: black;
+    border-bottom: 2px solid white;
+    width: 250px;
+    font-size: 22px;
+    margin-top: 40px;
+    outline: none;
+    color: white;
+}
+
+.inp2{
+
+    border: none;
+    background-color: black;
+    border-bottom: 2px solid white;
+    width: 250px;
+    font-size: 22px;
+    margin-top: 40px;
+    outline: none;
+    color: white;
+}
+
+.text button{
+    width: 250px;
+    height: 44px;
+    background-color: aqua;
+    color: black;
+    border: none;
+    font-size: 22px; 
+    border-radius: 25px;
+    margin-top: 30px; 
+}
+
+button:hover{
+    border: 3px solid aqua;
+    color: white;
+    font-size: 20px;
+    background-color: black;
+
+}
+
+.contain h1{
+
+    font-size: 50px;
+    color: aqua;
+}
+
+p {
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+p span{
+    color: aqua;
+}
